@@ -1,0 +1,23 @@
+{
+  "name": "@tamilarasan6258/custom-calculator",
+  "version": "0.0.0",
+  "description": "just a normal calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamilarasan6258/custom-calculator.git"
+  },
+  "keywords": [
+    "custom",
+    "culculator"
+  ],
+  "author": "tamilarasan6258",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamilarasan6258/custom-calculator/issues"
+  },
+  "homepage": "https://github.com/tamilarasan6258/custom-calculator#readme"
+}

@@ -12,5 +12,5 @@ function mul(a,b){
 }
 
 module.exports = {
-  add,sub
+  add,sub,mul
 };

@@ -1,6 +1,6 @@
 {
   "name": "@tamilarasan6258/custom-calculator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "just a normal calculator",
   "main": "index.js",
   "scripts": {

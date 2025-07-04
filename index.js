@@ -22,6 +22,16 @@ function pow(a,b){
   return a**b;
 }
 
+
+function sqrt(number) {
+  if (number < 0) {
+    throw new Error("Cannot calculate square root of a negative number.");
+  }
+  return Math.sqrt(number);
+}
+
+
+
 module.exports = {
-  add,sub,mul,div,mod,pow
+  add,sub,mul,div,mod,pow,sqrt
 };
